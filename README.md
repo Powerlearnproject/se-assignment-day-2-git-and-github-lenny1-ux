@@ -13,7 +13,7 @@ Centralized Version Control (CVCS): Uses a central server to store all versions,
 
 Distributed Version Control (DVCS): Each contributor has a complete copy of the repository, allowing for offline work and reducing the reliance on a central server. Git is an example of a DVCS.
 
-# Why GitHub is a Popular Tool for Version Control
+## Why GitHub is a Popular Tool for Version Control
 
 GitHub is a widely used platform for managing code versions, built on Git. It offers several advantages:
 
@@ -27,7 +27,7 @@ Integration with CI/CD: Works with Continuous Integration/Continuous Deployment 
 
 Security and Access Control: Supports private repositories and role-based permissions to protect sensitive code.
 
-How Version Control Helps Maintain Project Integrity
+## How Version Control Helps Maintain Project Integrity
 
 Version control enhances project integrity through:
 
