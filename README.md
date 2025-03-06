@@ -1,7 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8wgCKhpZ)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18559574&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
-## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity? -Fundamental Concepts of Version Control
+## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity? 
+-Fundamental Concepts of Version Control
 
 Version control is a system that records changes to files over time, allowing developers to track modifications, revert to previous states, and collaborate effectively. It ensures that software development remains organized and recoverable, reducing the risk of data loss and conflicting changes.
 
@@ -41,7 +42,7 @@ Code Review and Collaboration: Features like pull requests enable structured cod
 
 Ensuring Reproducibility: Developers can roll back to stable versions to debug issues and maintain software reliability.
 
-## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?-# Setting Up a New Repository on GitHub  
+## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Steps to Create a New GitHub Repository  
 
